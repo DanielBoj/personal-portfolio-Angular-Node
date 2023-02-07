@@ -1,0 +1,16 @@
+{
+  "name": "dboj-portfolio",
+  "version": "1.0.0",
+  "description": "Server application for the Portfolio app made with Angular.",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Angular",
+    "Portfolio"
+  ],
+  "author": "Daniel Boj",
+  "license": "CC0-1.0"
+}
